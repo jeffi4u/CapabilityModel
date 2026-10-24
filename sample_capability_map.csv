@@ -1,0 +1,17 @@
+ID,Display ID,Level,Domain,Tier,Cluster-Domain,Capability,Sub-Capability,Description
+1,BCP,L1,Deposits,Business / Consumable Products,,,Deposits Domain
+2,BCP.0004,L2,Deposits,Business / Consumable Products,,Checking & Savings,,Manage checking and savings accounts
+3,BCP.0004.01,L3,Deposits,Business / Consumable Products,,Checking & Savings,Demand and Time Deposits,"Provide deposits banking products and associated services for consumer, small business, and commercial"
+4,BCP.0004.02,L3,Deposits,Business / Consumable Products,,Checking & Savings,Debit Card Services,"Fulfill cards to access on-line checking and debit transaction processing, point of sale (POS), and token life cycle management"
+5,BCP.0005,L2,Loans,Business / Consumable Products,,Retail Lending,,Manage personal and mortgage loans
+6,BCP.0005.01,L3,Loans,Business / Consumable Products,,Retail Lending,Mortgage Origination,"Process new mortgage applications and underwriting"
+7,ENT.0001,L1,Finance,Enterprise,,Enterprise Finance,,Overall financial management
+8,ENT.0001.01,L2,Finance,Enterprise,,Accounting,,Core accounting ledgers and reporting
+9,ENT.0001.01.01,L3,Finance,Enterprise,,Accounting,General Ledger,"Maintain the general ledger of the bank"
+10,ENT.0002,L1,HR,Enterprise,,Human Resources,,Manage employee lifecycles
+11,ENT.0002.01,L2,HR,Enterprise,,Recruiting,,Talent acquisition functions
+12,ENB,L1,Analytics, Data and AI Platforms,Enabling,,,Analytics and Data
+13,ENB.0004,L2,Analytics, Data and AI Platforms,Enabling,,Data Engineering,,Provide a variety of data related services that support the efficient storage, movement and usage of data across the organization
+14,ENB.0004.01,L3,Analytics, Data and AI Platforms,Enabling,,Data Engineering,Data Pipelines,Build and maintain ETL data pipelines
+15,ENB.0005,L2,Cloud Infrastructure,Enabling,,Cloud Hosting,,Cloud provisioning and ops
+16,ENB.0005.01,L3,Cloud Infrastructure,Enabling,,Cloud Hosting,Compute Provisioning,Manage VMs and container platforms
